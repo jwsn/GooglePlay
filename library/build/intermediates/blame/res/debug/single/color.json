@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android app\\GooglePlay\\library\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\android app\\GooglePlay\\library\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\android app\\GooglePlay\\library\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\android app\\GooglePlay\\library\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    }
+]
